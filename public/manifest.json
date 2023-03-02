@@ -1,0 +1,26 @@
+{
+  "theme_color": "#48a98c",
+  "background_color": "#285d4d",
+  "orientation": "landscape-primary",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Perfil ",
+  "description": "Perfil",
+  "short_name": "Perfil",
+  "categories": ["healthcare"],
+  "prefer_related_applications": false,
+
+  "icons": [
+    {
+      "src": "https://www.perfil.com/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.perfil.com/images/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
